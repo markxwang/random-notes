@@ -7,9 +7,9 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/markxwang/random-notes
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mark-wang-0a27a0a1/
 format:
   html:
     theme:
